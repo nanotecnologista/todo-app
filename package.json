@@ -15,6 +15,10 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@headlessui/vue": "^1.7.13",
+    "@heroicons/vue": "^2.0.17",
+    "headlessui": "^0.0.0",
+    "heroicons": "^2.0.17",
     "pinia": "^2.0.32",
     "pinia-plugin-persistedstate": "^3.1.0",
     "uniqolor": "^1.1.0",
